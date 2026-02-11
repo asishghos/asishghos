@@ -11,6 +11,8 @@
 - 🔍 Currently exploring AI & scalable backend systems  
 - 📫 Reach me: asish.maldaitbss@gmail.com
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 ---
 
 ## 🌐 Connect with Me
